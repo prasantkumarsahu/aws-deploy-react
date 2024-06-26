@@ -3,6 +3,10 @@
   justify-content: center;
 }
 
+h3 {
+  text-align: center;
+}
+
 img {
   width: 150px;
 }
